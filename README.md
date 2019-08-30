@@ -37,8 +37,6 @@ PDF file and Markdown text file
 In french only  
 
 ------
-------
-
 
 **FR:**
 Document read.me du repository de mes veilles  
@@ -56,19 +54,14 @@ Documents .pdf et fichier texte en Markdown
 
 #### Sujet 3: CERN
 
-Documents .pdf, textes, ZIP et images
-Remarque: sujet complexe mais dans la limite de temps imparti.
+Documents .pdf, textes
 
------
-Sujet 4: Tunneling
+#### Sujet 4: Tunneling
 
-Document .pdf, texte et images
-Remarque: Bonne longueur, un peu trop peu explicatif mais c'était le but; synthétiser
+Document .pdf, texte
 
------
-Sujet 5: NoSQL
+#### Sujet 5: NoSQL
 
-Document .pdf, texte et images
-Remarque: Sujet déjà utilisé pour une précédente veille (Mathilde) mais complémentaire.
+Document .pdf, texte
 
 -----
