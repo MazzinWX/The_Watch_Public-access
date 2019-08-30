@@ -1,0 +1,12 @@
+Le mécanisme de Brout-Englert-Higgs (mécanisme BEH) description de la manière dont les particules fondamentales acquièrent leur masse.
+les particules interragissant avec un champ présent dans tout l'Univers. Plus elles interragissent fortement avec le champ, plus elles sont massives.
+Par contre, si elle n'interragissent pas avec ce champ, elles n'ont pas de masse (ex: photon) => Base du modèle standard.
+
+Le Boson de Higgs est la particule quantique associée au champ de Higgs. Le champ ne peut être observé directement, la présence de la particule permet de prouver l'existance de ce champ.
+En 2012, ATLAS et CMS ont observé une particule aux caractéristiques compatibles. Depuis, les analyses ont confirmé les caractéristiques du boson décrit par la théorie.
+Historique:
+Début des années 1970, les physiciens ont compris qu'il y avait des liens très étroits entre deux des quatre forces fondamentales, la force faible et la force électromagnétique.
+Les équations de la théorie unifiée décrivent de façon correcte les deux forces sous la forme d’une force électrofaible (Photon) et de ses particules porteuses de force associées(Bosons W et Z).
+Toutes ces particules se retrouvent sans masse. Or le photon a effectivement une masse nulle, les particules W et Z ont une masse à 100 fois celle d'un proton.
+Le mécanisme BEH résout ce problème en donnant une masse aux autres particules fondamentales comme les électrons et les quarks.
+Sans le champ de Higgs, l’Univers ne serait pas tel que nous le connaissons. Les particules élémentaires, telles que les électrons, se déplaceraient à la vitesse de la lumière, comme le font les photons. Ces particules ne pourraient pas s’organiser en structures plus complexes telles que les atomes et les molécules, et nous n’existerions pas.
